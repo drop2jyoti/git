@@ -9,16 +9,18 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+(refer to HomeWork-Task1-step6.png)
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
-
+(refer to Homework-Task1-step9.png)
 ### Task 2
 1. Create a new public repository on GitHub
 2. Add your GitHub repository as a remote for your local `githomework1` repository
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+(URL - https://github.com/drop2jyoti/githomework1)
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
@@ -26,7 +28,7 @@
 3. Use `echo` into the 5 empty files a few sentences about anything
 4. Stage, commit and push your work on GitHub
 5. Open up a pull request
-
+(refer to - https://github.com/drop2jyoti/githomework1/pull/1)
 ### Submission
 
 1. When you are done, please commit your changes, and push it to GitHub.
